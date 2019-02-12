@@ -1,2 +1,0 @@
-# js
-File Java Script
